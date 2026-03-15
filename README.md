@@ -2,8 +2,7 @@
 
 一个将 Chrome 书签 HTML 文件转换为文本文件的工具，提供图形界面和命令行两种版本。
 
-![书签转换器界面](docs/screenshot.png)
-
+![[界面.jpg]]
 ## 功能特点
 
 - **图形界面 (GUI)**：直观易用的 PyQt5 界面
@@ -32,8 +31,8 @@
    ```
 2. 下载源码：
    ```bash
-   git clone https://github.com/yourusername/bookmark-converter.git
-   cd bookmark-converter
+   git clone https://github.com/CloudPriest/bookmarks2txt.git
+   cd bookmarks2txt
    ```
 3. 运行程序：
    ```bash
@@ -125,8 +124,8 @@ bookmark-converter/
 ### 环境设置
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/bookmark-converter.git
-cd bookmark-converter
+git clone https://github.com/CloudPriest/bookmarks2txt.git
+   cd bookmarks2txt
 
 # 创建虚拟环境（可选）
 python -m venv venv
@@ -159,13 +158,6 @@ pyinstaller --name="书签转换器" --windowed --icon=assets/icon.ico src/bookm
 pyinstaller --name="书签转换器CLI" --console src/chrome_bookmarks_to_txt.py
 ```
 
-## 贡献指南
-
-1. Fork 本仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
 
 ## 许可证
 
@@ -175,7 +167,7 @@ pyinstaller --name="书签转换器CLI" --console src/chrome_bookmarks_to_txt.py
 
 - 问题报告：[GitHub Issues](https://github.com/yourusername/bookmark-converter/issues)
 - 功能建议：[GitHub Discussions](https://github.com/yourusername/bookmark-converter/discussions)
-- 邮箱：your-email@example.com
+- 邮箱：2930406390@qq.com
 
 ## 更新日志
 
