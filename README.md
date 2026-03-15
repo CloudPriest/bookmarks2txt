@@ -20,7 +20,7 @@
 ## 下载与安装
 
 ### 方式一：绿色软件（推荐）
-直接从 [Releases](https://github.com/yourusername/bookmark-converter/releases) 页面下载最新版本的可执行文件：
+直接从 [Releases](https://github.com/CloudPriest/bookmarks2txt/releases) 页面下载最新版本的可执行文件：
 - `书签转换器.exe` - Windows 免安装版本
 - `书签转换器.zip` - 完整发布包（包含示例和文档）
 
